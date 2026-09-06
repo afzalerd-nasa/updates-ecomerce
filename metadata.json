@@ -1,0 +1,6 @@
+{
+  "name": "Updates E-Commerce",
+  "description": "Modern, professional, responsive e-commerce platform with full shopping flow, order tracking, JWT authentication, and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
